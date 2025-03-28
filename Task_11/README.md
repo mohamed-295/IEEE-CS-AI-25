@@ -70,10 +70,9 @@ This Excel-based project is designed to manage and analyze employee records with
 
 All PivotTables are created in separate sheets for clarity:
 
-1. **Employees Per Department** – Count of employees by department  
-2. **Average Salary Per Department** – Average salary by department  
-3. **Employee Status Report** – Active vs. Inactive count  
-4. **Hiring Trends by Year** – Grouped by year from `Date of Joining`
+1. **Employees & Salary Per Department** – Count of employees , Average Salary, Percentage Of Salary and Total Salary by department  
+
+2. **Hiring Trends by Year** – Grouped by year from `Date of Joining`
 
 > **To group by year**:  
 > Right-click any date in PivotTable → `Group...` → select `Years` (and optionally `Months`)
